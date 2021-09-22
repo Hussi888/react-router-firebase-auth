@@ -9,8 +9,6 @@
   "dependencies": {
     "@atlaskit/css-reset": "3.0.2",
     "bootstrap": "^3.3.7",
-    "devextreme": "20.1",
-    "devextreme-react": "20.1",
     "firebase": "^3.6.1",
     "react": "^16.2.0",
     "react-beautiful-dnd": "9.0.2",
