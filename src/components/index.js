@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.css'
 import { Route, BrowserRouter, Link, Redirect, Switch } from 'react-router-dom'
 import Login from './Login'
-import Register from './Register'
 import Home from './Home'
 import Dashboard from './protected/Dashboard'
 import { logout } from '../helpers/auth'
@@ -12,7 +11,6 @@ import Interest from './protected/InterestPage'
 import Value from './protected/ValuePage'
 import Strength from './protected/StrengthPage'
 import Test from './protected/TestPage'
-import aagahiLogo from '../assets/images/aagahi-logo.svg';
 
 
 function PrivateRoute ({component: Component, authed, ...rest}) {

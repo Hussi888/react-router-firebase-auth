@@ -250,7 +250,7 @@ class Skill extends Component {
             
             <form onSubmit={this.questionSubmit} >
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Act as Liaison – Represent, serve as a link between individuals or groups</label> <br /><br/>
@@ -259,7 +259,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
               <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Adapt to Change – Easily and quickly respond to changing assignments, work settings and priorities</label> <br /><br/>
@@ -268,7 +268,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Ambiguity (Dealing with) – Be comfortable and effective with issues that lack clarity, structure, or certainty</label> <br /><br/>
@@ -277,7 +277,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Analyze – Break down and figure out problems logically</label> <br /><br/>
@@ -286,7 +286,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Budget – Economize, save, stretch money or other resources</label> <br /><br/>
@@ -295,7 +295,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Classify – Group, categorize, systematize data, people, or things</label> <br /><br/>
@@ -304,7 +304,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Computer Literate – Develop, organize, complete tasks/projects using software: Word, Excel, PowerPoint</label> <br /><br/>
@@ -313,7 +313,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Conceptualize – Conceive and internally develop concepts and ideas</label> <br /><br/>
@@ -322,7 +322,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Counsel – Facilitate insight and personal growth, guide, advise, coach students, employees, or clients</label> <br /><br/>
@@ -331,7 +331,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Customer Service – Effectively solve problems and challenges to satisfy customers</label> <br /><br/>
@@ -340,7 +340,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Deal with Feelings – Listen, accept, empathize, show sensitivity, defuse anger, use humor, appreciate</label> <br /><br/>
@@ -349,7 +349,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Delegate – Achieve effective results by assigning tasks to others</label> <br /><br/>
@@ -358,7 +358,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Design – Structure new or innovative practices, programs, products or environments</label> <br /><br/>
@@ -367,7 +367,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Entertain/Perform – Amuse, sing, dance, create art, play music for, demonstrate or speak to an audience</label> <br /><br/>
@@ -376,7 +376,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Estimating – Appraise value or cost</label> <br /><br/>
@@ -385,7 +385,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Evaluate – Assess, review, or critique feasibility or quality</label> <br /><br/>
@@ -394,7 +394,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Expedite – Speed up production or services, troubleshoot problems, streamline procedures</label> <br /><br/>
@@ -403,7 +403,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label"> Ideas (Generate) – Reflect upon, conceive of, dream up, brainstorm ideas</label> <br /><br/>
@@ -412,7 +412,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Initiate Change – Exert influence to change status quo, exercise leadership to bring about new direction</label> <br /><br/>
@@ -421,7 +421,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem",marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Implement – Provide detailed follow-through of policies and plans</label> <br /><br/>
@@ -430,7 +430,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Improvise – To effectively think, speak, and act without preparation</label> <br /><br/>
@@ -439,7 +439,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Innovate/Invent – Create unique ideas or combine existing ideas to obtain a new or unique result</label> <br /><br/>
@@ -448,7 +448,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Interview for Information – Draw out subjects through insightful questioning</label> <br /><br/>
@@ -457,7 +457,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Leadership – Organizing, motivating, providing direction to a group of people to achieve a common goal</label> <br /><br/>
@@ -466,7 +466,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Maintain Records – Keep accurate and up-to-date records, log, record, itemize, collate, tabulate data</label> <br /><br/>
@@ -475,7 +475,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Make Arrangements – Coordinate events and handle logistics</label> <br /><br/>
@@ -484,7 +484,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Make Decisions – Make major, complex, or frequent decisions</label> <br /><br/>
@@ -493,7 +493,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Manage Time – Ability to prioritize, structure and schedule tasks to maximize effort and meet deadlines</label> <br /><br/>
@@ -502,7 +502,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Mentor – Educate, guide, coach, or counsel a less accomplished or junior colleague</label> <br /><br/>
@@ -511,7 +511,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Mediate – Manage conflict and reconcile differences</label> <br /><br/>
@@ -520,7 +520,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Monitor – Keep track of the movement of data, people, and things</label> <br /><br/>
@@ -529,7 +529,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Motivate – Recruit involvement, mobilize energy, stimulate peak performance</label> <br /><br/>
@@ -538,7 +538,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Multi-task – Effectively manage a variety of tasks and projects simultaneously</label> <br /><br/>
@@ -547,7 +547,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Negotiate – Bargain for rights or advantages</label> <br /><br/>
@@ -556,7 +556,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Numbers (Work with) – Calculate, compute, understand, solve numerical/quantitative problems</label> <br /><br/>
@@ -565,7 +565,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Observe – Study, scrutinize, examine data, people or things, scientifically.</label> <br /><br/>
@@ -574,7 +574,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Perceive Intuitively – Sense, show insight, and foresight</label> <br /><br/>
@@ -583,7 +583,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Plan/Organize – Define goals and objectives, schedule and develop projects or programs</label> <br /><br/>
@@ -592,7 +592,7 @@ class Skill extends Component {
                 </div> 
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Portray Images – Sketch, draw, illustrate, paint, photograph</label> <br /><br/>
@@ -601,7 +601,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Proofread/Edit – Check writing for proper usage and stylistic flair, make improvements</label> <br /><br/>
@@ -610,7 +610,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Read for Information – Research written resources efficiently and exhaustively</label> <br /><br/>
@@ -619,7 +619,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Research Online – Use search engines on the Internet to gather and organize information and data</label> <br /><br/>
@@ -628,7 +628,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Sell – Promote a person, company, goods or services, convince of merits, raise money</label> <br /><br/>
@@ -637,7 +637,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Supervise – Oversee and direct the work of others</label> <br /><br/>
@@ -646,7 +646,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Synthesize – Integrate ideas and information, combine diverse elements into a coherent whole</label> <br /><br/>
@@ -655,7 +655,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Teach/Train – Inform, explain, give instruction to students, employees, or customers</label> <br /><br/>
@@ -664,7 +664,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Team Work – Easily and effectively work with others to obtain results</label> <br /><br/>
@@ -673,7 +673,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Test – Measure proficiency, quality, or validity, check and double check</label> <br /><br/>
@@ -682,7 +682,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Use Mechanical Abilities – Assemble, tune, repair, or operate engines or other machinery</label> <br /><br/>
@@ -691,7 +691,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Visualize – Imagine possibility, see in “mind’s eye”</label> <br /><br/>
@@ -700,7 +700,7 @@ class Skill extends Component {
                 </div>
               </div>
 
-              <div className="card" style={{width: "20rem"}, {marginTop: "40px"}}>
+              <div className="card" style={{width: "20rem", marginTop: "40px"}}>
                   <br/>
                   <div className="form-check form-check-inline">
                   <label className="Form-label">Write – Compose reports, letters, articles, ads, stories, or educational materials</label> <br /><br/>
