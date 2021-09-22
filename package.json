@@ -2,15 +2,22 @@
   "name": "react-router-firebase-auth",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
   "dependencies": {
+    "@atlaskit/css-reset": "3.0.2",
     "bootstrap": "^3.3.7",
+    "devextreme": "20.1",
+    "devextreme-react": "20.1",
     "firebase": "^3.6.1",
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0",
-    "react-router-dom": "^4.0.0-beta.8"
+    "react": "^16.2.0",
+    "react-beautiful-dnd": "9.0.2",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.0.0-beta.8",
+    "react-toastify": "^8.0.2",
+    "styled-components": "3.4.10 - latest"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -7,6 +7,13 @@ import Home from './Home'
 import Dashboard from './protected/Dashboard'
 import { logout } from '../helpers/auth'
 import { firebaseAuth } from '../config/constants'
+import Skill from './protected/SkillPage'
+import Interest from './protected/InterestPage'
+import Value from './protected/ValuePage'
+import Strength from './protected/StrengthPage'
+import Test from './protected/TestPage'
+import aagahiLogo from '../assets/images/aagahi-logo.svg';
+
 
 function PrivateRoute ({component: Component, authed, ...rest}) {
   return (
@@ -59,15 +66,15 @@ export default class App extends Component {
         <div>
           <nav className="navbar navbar-default navbar-static-top">
             <div className="container">
-              <div className="navbar-header">
-                <Link to="/" className="navbar-brand">React Router + Firebase Auth</Link>
+              <div className="navbar-header" >
+                <Link to="/" className="navbar-brand">Aagahii</Link>
               </div>
               <ul className="nav navbar-nav pull-right">
                 <li>
                   <Link to="/" className="navbar-brand">Home</Link>
                 </li>
                 <li>
-                  <Link to="/dashboard" className="navbar-brand">Dashboard</Link>
+                  <Link to="/dashboard" className="navbar-brand">About Me</Link>
                 </li>
                 <li>
                   {this.state.authed
@@ -78,8 +85,8 @@ export default class App extends Component {
                         }}
                         className="navbar-brand">Logout</button>
                     : <span>
-                        <Link to="/login" className="navbar-brand">Login</Link>
-                        <Link to="/register" className="navbar-brand">Register</Link>
+                        <Link to="/login" className="navbar-brand">Get Started</Link>
+                        {/* <Link to="/register" className="navbar-brand">Register</Link> */}
                       </span>}
                 </li>
               </ul>
@@ -90,8 +97,14 @@ export default class App extends Component {
               <Switch>
                 <Route path='/' exact component={Home} />
                 <PublicRoute authed={this.state.authed} path='/login' component={Login} />
-                <PublicRoute authed={this.state.authed} path='/register' component={Register} />
-                <PrivateRoute authed={this.state.authed} path='/dashboard' component={Dashboard} />
+                {/* <PublicRoute authed={this.state.authed} path='/register' component={Register} /> */}
+                <PublicRoute authed={this.state.authed} path='/dashboard' component={Dashboard} />
+
+                <PrivateRoute authed={this.state.authed} path='/test' component={Test} />
+                <PrivateRoute authed={this.state.authed} path='/value' component={Value} />
+                <PrivateRoute authed={this.state.authed} path='/strength' component={Strength} />
+                <PrivateRoute authed={this.state.authed} path='/skill' component={Skill} />
+                <PrivateRoute authed={this.state.authed} path='/interest' component={Interest} />
                 <Route render={() => <h3>No Match</h3>} />
               </Switch>
             </div>
